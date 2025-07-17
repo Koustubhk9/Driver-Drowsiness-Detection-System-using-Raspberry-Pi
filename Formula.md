@@ -1,4 +1,4 @@
- EAR = 2×∥Q1−Q4∥/∥Q2 −Q6∥+∥Q3−Q5∥
+ EAR = ∥Q2 −Q6∥+∥Q3−Q5∥/2×∥Q1−Q4∥
 
  where Q1 and Q4 are horizontal eye landmarks,
  Q2,Q3,Q5,Q6 vertical eye landmarks
