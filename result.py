@@ -14,14 +14,3 @@ metrics_df = pd.DataFrame(metrics)
 plt.figure(figsize=(8, 6))
 sns.heatmap(confusion_df, annot=True, fmt="d", cmap="Blues") plt.title("Confusion Matrix")
 plt.ylabel("Actual") plt.xlabel("Predicted") plt.tight_layout() plt.show()
-
-
-#PERFORMANCE METRICS
-
-# Plotting bar graph for metrics
-plt.figure(figsize=(8, 5))
-sns.barplot(x="Metric", y="Value", data=metrics_df, palette="viridis") plt.ylim(0, 100)
-plt.title("Performance Metrics")
-plt.ylabel("Percentage (%)")
-plt.tight_layout()
-plt.show()
