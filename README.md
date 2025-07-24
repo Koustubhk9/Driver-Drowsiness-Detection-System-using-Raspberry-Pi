@@ -31,3 +31,9 @@ Technologies Used:-
 -OpenCV
 
 -Touchscreen display
+
+
+![WhatsApp Image 2025-07-21 at 10 13 47 AM](https://github.com/user-attachments/assets/8b9c36c8-a633-4d53-8061-7313918b79f7)
+
+Final system connection.
+
