@@ -11,3 +11,12 @@ In this normal condition, the subject is facing the camera with both eyes wide o
 Scenario 2: Eyes Closed (Simulated Drowsiness)
 In this scenario, the subject closes their eyes for 2 or more seconds to simulate microsleep or drowsiness. This is the core test of the project. The EAR falls below the critical threshold of 0.25 and remains low for more than 48–60 consecutive frames (about 2 seconds at 24 fps). The system raises a red-colored ALERT message on the screen.
 
+
+![WhatsApp Image 2025-07-21 at 10 13 44 AM](https://github.com/user-attachments/assets/ce1e283c-8133-45f4-8164-2f5890f367ab)
+
+In this image you can see when the eyes are open the frame count is one(1), afterwards eyes are closed the frame count increases from one to two, two to three and so on.
+
+![WhatsApp Image 2025-07-21 at 10 13 46 AM](https://github.com/user-attachments/assets/623cb094-c85a-42d2-9f21-ad6f562cc99d)
+
+In this image the eyes are closed for sixty continous frames.
+
